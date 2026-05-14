@@ -483,7 +483,7 @@ Import
 * Filesystem usage
 
 ---
-
+![Kubernetes Monitoring Architecture](https://miro.medium.com/v2/resize:fit:1100/format:webp/0*3YiGfxJAEjLOSqMd.png)
 ## Container Metrics
 
 * CPU limits
